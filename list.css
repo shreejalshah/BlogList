@@ -1,0 +1,16 @@
+h1{
+    color: cornsilk;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    text-align: left;
+    color: aquamarine;
+}
+
+h3{
+    color: greenyellow;
+    font-family: cursive;
+    <hr>
+}
